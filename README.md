@@ -92,8 +92,4 @@ Il manifest Mini App è esposto su `/.well-known/farcaster.json`.
 - [ ] Pulsante "Aggiungi all'NFT al wallet" via `wallet_watchAsset`.
 - [ ] Localizzazione EN/IT.
 
----
-
-## Licenza
-
 [MIT](./LICENSE)
