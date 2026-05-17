@@ -1,0 +1,27 @@
+{
+  "name": "roman-persona-nft-contracts",
+  "version": "1.0.0",
+  "description": "Smart contracts per Roman Persona NFT",
+  "scripts": {
+    "compile": "hardhat compile",
+    "deploy": "hardhat run deploy.js",
+    "deploy:baseSepolia": "hardhat run deploy.js --network baseSepolia",
+    "deploy:base": "hardhat run deploy.js --network base",
+    "test": "hardhat test",
+    "verify": "hardhat verify"
+  },
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^4.0.0",
+    "hardhat": "^2.19.0",
+    "dotenv": "^16.3.1"
+  },
+  "dependencies": {
+    "@openzeppelin/contracts": "^5.0.0"
+  }
+}
+
+
+
+
+
+
